@@ -9,7 +9,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "keywords": ["expo", "config-plugin", "image-picker", "crop"],
-  "author": "Your Name",
+  "author": "La Win Ko",
   "license": "MIT",
   "dependencies": {
     "expo": "^50.0.0",
