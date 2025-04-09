@@ -1,4 +1,4 @@
-import { ConfigPlugin } from 'expo/config-plugins';
+import { ConfigPlugin } from '@expo/config-plugins';
 import { withAndroidImageCropPicker } from './android';
 import { withIosImageCropPicker } from './ios';
 

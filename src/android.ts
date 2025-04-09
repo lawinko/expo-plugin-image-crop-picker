@@ -3,7 +3,7 @@ import {
     withProjectBuildGradle,
     withAppBuildGradle,
     withAndroidManifest,
-} from 'expo/config-plugins';
+} from '@expo/config-plugins';
 
 /**
  * Adds Android permissions and gradle settings for image crop picker.

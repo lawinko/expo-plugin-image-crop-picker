@@ -1,22 +1,36 @@
 {
-  "name": "expo-image-crop-picker-plugin",
-  "version": "1.0.1",
-  "description": "Expo config plugin for react-native-image-crop-picker",
-  "main": "plugin/build/index.js",
-  "scripts": {
-    "build": "tsc",
-    "lint": "eslint src --ext .ts",
-    "test": "echo \"No test specified\" && exit 0"
-  },
-  "keywords": ["expo", "config-plugin", "image-picker", "crop"],
-  "author": "La Win Ko",
-  "license": "MIT",
-  "dependencies": {
-    "expo": "^50.0.0",
-    "expo-config-plugins": "^8.0.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.0.0",
-    "eslint": "^8.0.0"
-  }
+    "name": "expo-plugin-image-crop-picker",
+    "version": "1.0.0",
+    "description": "Expo config plugin for react-native-image-crop-picker",
+    "main": "plugin/build/index.js",
+    "types": "plugin/build/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "lint": "eslint src --ext .ts",
+        "test": "echo \"No test specified\" && exit 0"
+    },
+    "keywords": [
+        "expo",
+        "config-plugin",
+        "react-native-image-crop-picker",
+        "image-picker"
+    ],
+    "author": "La Win Ko",
+    "license": "MIT",
+    "peerDependencies": {
+        "@expo/config-plugins": "^9.0.17"
+    },
+    "devDependencies": {
+        "@expo/config-plugins": "^9.0.17",
+        "typescript": "^5.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lawinko/expo-plugin-image-crop-picker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lawinko/expo-plugin-image-crop-picker"
+    },
+    "homepage": "https://github.com/lawinko/expo-plugin-image-crop-picker#readme",
+    "packageManager": "yarn@4.1.1+sha512.ec40d0639bb307441b945d9467139cbb88d14394baac760b52eca038b330d16542d66fef61574271534ace5a200518dabf3b53a85f1f9e4bfa37141b538a9590"
 }
