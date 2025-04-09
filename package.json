@@ -1,0 +1,22 @@
+{
+  "name": "expo-image-crop-picker-plugin",
+  "version": "1.0.0",
+  "description": "Expo config plugin for react-native-image-crop-picker",
+  "main": "plugin/build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src --ext .ts",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": ["expo", "config-plugin", "image-picker", "crop"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "expo": "^50.0.0",
+    "expo-config-plugins": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0"
+  }
+}
