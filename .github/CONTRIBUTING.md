@@ -12,12 +12,12 @@ Thank you for considering contributing to this Expo config plugin! Here are some
 
 2. Install dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 
 3. Build the plugin:
    ```bash
-   npm run build
+   yarn build
    ```
 
 ## Making Changes
@@ -31,7 +31,7 @@ Thank you for considering contributing to this Expo config plugin! Here are some
 
 3. Build the plugin to ensure your changes compile correctly:
    ```bash
-   npm run build
+   yarn build
    ```
 
 4. Test your changes with an Expo project
