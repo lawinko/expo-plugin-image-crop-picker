@@ -6,6 +6,8 @@ This plugin configures iOS and Android native files to support `react-native-ima
 
 ```bash
 yarn add expo-plugin-image-crop-picker
+# or
+npm install expo-plugin-image-crop-picker
 ```
 
 Add to your `app.config.js` or `app.json`:
