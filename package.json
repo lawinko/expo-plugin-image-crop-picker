@@ -1,6 +1,6 @@
 {
     "name": "expo-plugin-image-crop-picker",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "description": "Expo config plugin for react-native-image-crop-picker",
     "main": "plugin/build/index.js",
     "types": "plugin/build/index.d.ts",
@@ -31,6 +31,5 @@
     "bugs": {
         "url": "https://github.com/lawinko/expo-plugin-image-crop-picker"
     },
-    "homepage": "https://github.com/lawinko/expo-plugin-image-crop-picker#readme",
-    "packageManager": "yarn@4.1.1+sha512.ec40d0639bb307441b945d9467139cbb88d14394baac760b52eca038b330d16542d66fef61574271534ace5a200518dabf3b53a85f1f9e4bfa37141b538a9590"
+    "homepage": "https://github.com/lawinko/expo-plugin-image-crop-picker#readme"
 }
