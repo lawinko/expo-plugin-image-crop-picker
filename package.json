@@ -1,6 +1,6 @@
 {
     "name": "expo-plugin-image-crop-picker",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "description": "Expo config plugin for react-native-image-crop-picker",
     "main": "plugin/build/index.js",
     "types": "plugin/build/index.d.ts",
